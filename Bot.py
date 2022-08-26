@@ -5,7 +5,7 @@ from flask import Flask
 import os
 
 app = Flask(__name__)
-API_TOKEN = '1750326917:AAGYFKRGQAwYuT0M-vw0SIam9uIgww2vwWc'
+API_TOKEN = '<TOKEN>'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
